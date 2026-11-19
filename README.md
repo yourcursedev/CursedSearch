@@ -1,7 +1,10 @@
 <div align="center">
 
 <!-- Replace the path below with your actual logo path in the repo, e.g. ./Assets/logo.png -->
-<img src="Assets/logo.png" alt="CursedSearch Logo" width="96" height="96" />
+
+<p align="center">
+  <img src="preview.png" alt="JajoDex Studio Preview" width="100%" />
+</p>
 
 # <span style="color:#FFFFFF;">Cursed</span><span style="color:#A855F7;">Search</span>
 
