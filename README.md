@@ -80,7 +80,7 @@ CursedSearch/
 ### Build & Package
 1. Clone the repository and open PowerShell in the root directory:
    ```powershell
-   git clone https://github.com/YOUR_USERNAME/CursedSearch.git
+   git clone https://github.com/yourcursedev/CursedSearch.git
    cd CursedSearch
    ```
 2. Run the automated build and test pipeline:
