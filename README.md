@@ -69,6 +69,8 @@ CursedSearch/
 └── CursedSearch.slnx       # Solution file
 ```
 
+Note: Because the installer is not signed with a paid Code Signing Certificate, Windows SmartScreen may show an "Unknown publisher" warning. Click More info → Run anyway to proceed.
+
 ---
 
 ## 🚀 Building from Source
